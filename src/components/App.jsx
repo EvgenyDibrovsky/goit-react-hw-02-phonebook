@@ -66,6 +66,8 @@ export class App extends Component {
           alignItems: 'center',
           fontSize: 20,
           color: '#010101',
+          padding: '0 15px',
+          backgroundColor: '#fdfcf0',
         }}
       >
         <h1>📖 Phonebook</h1>
